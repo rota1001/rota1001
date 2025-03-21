@@ -20,7 +20,7 @@ Currently making effort to become a kernel developer
 
 ### Education Performance
 - ⚡ 2023 一年級第 1 學期 - 成大資工書卷獎 (Academic Excellence Award in CS, NCKU)
-- ⚡ 2023 一年級第 2 學期 - 成大資工書卷獎 (Academic Excellence Award in CS, NCKU)
+- ⚡ 2024 一年級第 2 學期 - 成大資工書卷獎 (Academic Excellence Award in CS, NCKU)
 - ⚡ 2024 二年級第 1 學期 - 成大資工書卷獎 (Academic Excellence Award in CS, NCKU)
 
 ### Collegiate Programming Exam
