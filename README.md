@@ -22,6 +22,14 @@ Currently making effort to become a kernel developer
 - ⚡ 2023 一年級第 1 學期 - 成大資工書卷獎 (Academic Excellence Award in CS, NCKU)
 - ⚡ 2023 一年級第 2 學期 - 成大資工書卷獎 (Academic Excellence Award in CS, NCKU)
 - ⚡ 2024 二年級第 1 學期 - 成大資工書卷獎 (Academic Excellence Award in CS, NCKU)
+
+### Collegiate Programming Exam
+- ⚡ 5/23, 2023 - Ranked Top 0.7%
+- ⚡ 12/12, 2023 - Ranked Top 0.2%
+- ⚡ 4/23, 2024 - Ranked Top 0.4%
+- ⚡ 5/21, 2024 - Ranked Top 1.9%
+- ⚡ 10/15, 2024 - Ranked Top 0.1%
+- ⚡ 12/10, 2024 - Ranked Top 0.5%
 <!--
 **rota1001/rota1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
